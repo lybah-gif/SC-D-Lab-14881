@@ -1,11 +1,6 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    int a;
-    cout << "Hello, C++ in VS Code!" << endl;
-
-    cin>>a;
-    cout<<a<<endl;
+int main(){
+    cout << "Hello, I am Laiba Zahid (14881)" << endl;
 }
-
